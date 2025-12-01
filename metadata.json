@@ -1,0 +1,5 @@
+{
+  "name": "Simulador de Juros Compostos TROUPAX",
+  "description": "Uma aplicação web para simular investimentos com taxa de juros fixa anual, permitindo visualizar o crescimento do patrimônio ao longo do tempo através de gráficos e tabelas detalhadas.",
+  "requestFramePermissions": []
+}
